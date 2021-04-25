@@ -1,0 +1,2 @@
+# HelperHelper
+基于Python的监听剪切板自动处理m3u8下载任务的小工具
